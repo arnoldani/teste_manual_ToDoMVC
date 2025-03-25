@@ -11,11 +11,11 @@ Neste repositório você irá encontrar um projeto composto por:
 
 - Site analisado: [TodoMVC](https://todomvc.com/examples/react/dist/)
 
-![TodoMVC](img\todomvc.jpg)
+![TodoMVC](teste_manual_ToDoMVC\img\todomvc.jpg)
 
 
 - Análise realizada em: [Miro](https://miro.com/app/dashboard/)
 
-![Análise de Requisitos](img\requisitos.jpg)
+![Análise de Requisitos](teste_manual_ToDoMVC\img\requisitos.jpg)
 
 
