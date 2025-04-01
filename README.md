@@ -22,4 +22,6 @@ Neste repositório você irá encontrar um projeto composto por:
 ![Análise de Requisitos](img/requisitos.jpg)
 
 
+## Plano de Teste e Evidência da Execução dos testes
 
+No repositório, dentro da pasta 'excel' está o arquivo onde foi realizado todo o plano de teste e ainda nele há as evidências dos testes que realizei.
